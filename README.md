@@ -6,3 +6,4 @@ Se quando você voltar aqui este repositório conter mais scripts e achar válid
 fique à vontade. Será bem-vindo(a)!
 
 Gustavo Soares de Lima
+gustavo@logicus.com.br
