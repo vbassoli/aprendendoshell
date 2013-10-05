@@ -3,6 +3,7 @@
 # script para ampliar o número de manuais em Língua Portuguesa no sistema utilizando o dialog
 # Autor: Gustavo Soares de Lima
 # Co-autor: Alexandre Smaniotto
+# GNU GENERAL PUBLIC LICENSE Version 2, June 1991
  
 # função para listar quantos manuais em língua portuguesa tem no sistema
 lista_manuais () {
