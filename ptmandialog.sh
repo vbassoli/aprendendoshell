@@ -35,4 +35,4 @@ lista_manuais
 dialog --msgbox "Agora você possui $var3 manuais \
 em Língua Portuguesa. Aproveite." 7 60
 
-# is this de endi
+# fim
