@@ -1,5 +1,5 @@
 #!/bin/bash
-# ptman.sh
+# ptmandialog.sh
 # script para ampliar o número de manuais em Língua Portuguesa no sistema utilizando o dialog
 # Autor: Gustavo Soares de Lima
 # Co-autor: Alexandre Smaniotto
