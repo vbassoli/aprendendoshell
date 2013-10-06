@@ -4,6 +4,8 @@
 # limpando a tela
 clear
 
+# mostrando legenda
 echo "Legenda: Nome do Kernel, Nome da Máquina, Versão do Kernel utilizada, Versão de compilação do Kernel, Arquitetura, Sistema."
+
 # usando uname-a para expor as informações
 uname -a
