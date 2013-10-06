@@ -13,7 +13,7 @@ echo "
 
 Selecione uma das opções:
 
-1) Instalar o NetFlix. Saiba que PPA poderá trazer instabilidade
+1) Instalar o Netflix. Saiba que PPA poderá trazer instabilidade
 2) Remover o Netflix e o repositório
 3) Sair do instalador
 4) Remover o wine
