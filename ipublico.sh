@@ -9,9 +9,11 @@ clear
 
 echo "Aguarde..."
 
-# baixando o ip público a partir de consulta na internet
+# baixando o ip público a partir de consulta na internet (obra do Brunão!)
 wget --quiet ifconfig.me/ip
 ip=`cat ip`
+
+# uma perfumaria que acrescentei
 dialog --msgbox "Seu ip público é: \
 $ip" 5 40
 rm ip
