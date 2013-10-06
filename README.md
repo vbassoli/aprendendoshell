@@ -6,10 +6,16 @@ Se quando você voltar aqui este repositório conter mais scripts e achar válid
 fique à vontade. Será bem-vindo(a)!
 
 For Gringos!
+============
 
 Created this repository to post scripts with learning purposes. However hour has little.
 If when you come back here this repository contain more scripts and find valid change them to improve feel free.
 You are welcome!
+
+Autoria
+=======
+
+Por enquanto estou só nesta jornada. Mas eu teria imenso prazer em receber contribuições.
 
 Gustavo Soares de Lima
 
