@@ -16,6 +16,6 @@ sleep 3
 sudo apt-get install -y wireshark pbnj etherape tcpdump iptraf
 
 # informando o usuário dos programas instalados
-echo "Foram instalados os programas Wireshark, Genlist, Etherape, Tcpdump e Iptraf. Bom trabalho!"
+echo "Se tudo ocorreu bem foram instalados os programas Wireshark, Genlist, Etherape, Tcpdump e Iptraf. Bom trabalho!"
 
 # fim
