@@ -2,6 +2,7 @@
 # instalanetflix.sh
 # autor Gustavo Soares de Lima
 # GPL 2
+# parece não ter utilidade, mas serviu para o meu velho pai que migrou para o ubuntu e queria assistir uns filmes
 # baseado na dica do seguinte link:http://sistemaoperacionalinux.blogspot.com.br/2013/05/instale-o-netflix-no-ubuntu-1304-e-no.html
 # perceba que o próprio blog alerta sobre a estabilidade do PPA
 
