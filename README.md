@@ -12,6 +12,15 @@ Created this repository to post scripts with learning purposes. However hour has
 If when you come back here this repository contain more scripts and find valid change them to improve feel free.
 You are welcome!
 
+Instalação
+==========
+
+Penso que a forma mais rápida de instalação seja:
+
+ wget https://github.com/gustavologicus/aprendendoshell/archive/master.zip
+ 
+Após descompactar não esquecer de dar permissão nos scripts com chmod +.
+
 Autoria
 =======
 
