@@ -3,7 +3,9 @@
 # limpando a tela
 # script comum, que serve bem ao aprendizado
 
+# limpando a tela
 clear
+
 # calculadora propriamente dita
 while true
 do
