@@ -14,6 +14,6 @@ do
 	read -p "Digite o primeiro número:" numero_1 # pegando resposta do usuário e criando variável
 	read -p "Digite o operador desejado:" operador
 	read -p "Digite o segundo número:" numero_2
-	echo $(($numero_1 $operador $numero_2)) # isso é muito interessante
+	echo $(($numero_1 $operador $numero_2)) # isso é muito interessante, uma forma indireta de fazer operações
 done
 # fim
