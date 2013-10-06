@@ -1,7 +1,7 @@
 Aprendendoshell
 ===============
 
-Criei este repositório para postar scripts com fins de aprendizado. No entanto por hora só tem um script. 
+Criei este repositório para postar scripts com fins de aprendizado. No entanto por hora tem pouca coisa.
 Se quando você voltar aqui este repositório conter mais scripts e achar válido alterá-los para melhorarem 
 fique à vontade. Será bem-vindo(a)!
 
