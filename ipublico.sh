@@ -1,6 +1,6 @@
 #!/bin/bash
 # ipublico.sh
-# o autor original deste script é Bruno Antunes
+# o autor original deste script é Bruno Antunes (http://brunoantuness.wordpress.com/)
 # modificado por Gustavo Soares de Lima
 # procura ip público do usuário e mostra através do dialog
 
