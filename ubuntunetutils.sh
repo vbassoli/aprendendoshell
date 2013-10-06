@@ -7,7 +7,7 @@
 clear
 
 # informando o usuário
-echo "Instalando programas interessantes para administração de redes no Ubuntu..."
+echo "Instalando programas interessantes para administração de redes no Ubuntu... Aproveite para tomar um café!"
 
 # dando um tempo para o usuário ler a mensagem anterior
 sleep 3
