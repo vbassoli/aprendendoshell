@@ -1,6 +1,7 @@
 #!/bin/bash
 # ubuntunetutils.sh
 # instala programas interessantes para um administrador de redes
+# creio que a utilidade deste script está apenas para quem não conhece os programas citados
 
 # limpando a tela
 clear
