@@ -1,5 +1,5 @@
 #!/bin/bash
 # olamundo.sh
-# muito simples isto no shell não é mesmo?
+# para demonstrar a facilidade do shell
 
-echo "Olá mundo!"
+echo "Olá mundo!" # imprimindo olá mundo de forma simples
