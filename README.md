@@ -17,7 +17,7 @@ Instalação
 
 Penso que a forma mais rápida de instalação seja:
 
- wget https://github.com/gustavologicus/aprendendoshell/archive/master.zip
+	$ wget https://github.com/gustavologicus/aprendendoshell/archive/master.zip
  
 Após descompactar não esquecer de dar permissão nos scripts com chmod +.
 
