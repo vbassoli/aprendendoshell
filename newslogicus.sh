@@ -6,6 +6,7 @@
 # limpando a tela
 clear
 
+echo
 lynx -dump -nolist http://logicus.com.br |
  grep '^[A-Z]' |
  sed 's/Menu//' |
@@ -13,5 +14,6 @@ lynx -dump -nolist http://logicus.com.br |
  sed 's/Eventos//' |
  sed 's/Informe de Cursos//' |
  head -n7
+echo
 
 # fim
