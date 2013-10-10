@@ -12,3 +12,5 @@ lynx -dump -nolist http://logicus.com.br |
  sed 's/Eventos//' |
  sed 's/Informe de Cursos//' |
  head -n7
+
+# fim
