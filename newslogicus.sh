@@ -1,8 +1,9 @@
 #!/bin/bash
 # newslogicus.sh
 # procura as últimas 7 notícias do site da logicus
-# imprime na tela do usuário
+# e imprime na tela do usuário
 
+# limpando a tela
 clear
 
 lynx -dump -nolist http://logicus.com.br |
