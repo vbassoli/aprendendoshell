@@ -1,6 +1,6 @@
 #!/bin/bash
 # newslogicus.sh
-# procura as últimas 7 notícias do site da logicus
+# procura as últimas notícias do site da logicus
 # e imprime na tela do usuário
 
 # limpando a tela
