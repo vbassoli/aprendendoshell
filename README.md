@@ -19,13 +19,17 @@ Penso que a forma mais rápida de instalação seja:
 
 	$ wget https://github.com/gustavologicus/aprendendoshell/archive/master.zip
  
-Após descompactar não esquecer de dar permissão nos scripts com chmod +.
+Após descompactar não esquecer de dar permissão nos scripts com chmod +. Um exemplo de comando que pode ser dado
+para agilizar a sua vida é:
+
+	$ chmod +x *.sh
+
+Este comando irá dar permissão de script para todos os arquivos com extensão "sh" na pasta. Mas lembre-se que você deve
+usar este comando dentro da pasta onde estão os scripts.
 
 Autoria
 =======
 
 Por enquanto estou só nesta jornada. Mas eu teria imenso prazer em receber contribuições.
 
-Gustavo Soares de Lima
-
-gustavo@logicus.com.br
+Gustavo Soares de Lima. E-mail: gustavo@logicus.com.br
