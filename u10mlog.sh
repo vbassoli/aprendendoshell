@@ -6,3 +6,5 @@
 
 dialog --title "Últimas 10 mensagens do /var/log/messagens:" \
 --msgbox "`tail -10 /var/log/messages`" 0 0
+
+# fim
