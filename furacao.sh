@@ -1,6 +1,7 @@
 #!/bin/bash
 # furacao.sh
 # para atleticanos
+# necessita do zenity
 
 # usando o zenity articulado ao if
 zenity --question --text "O Furacão é melhor que o Coxa?"
