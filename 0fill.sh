@@ -1,7 +1,7 @@
 #!/bin/bash
 # 0fill.sh
 # limpa totalmente um dispositivo preenchendo-o de zeros
-# útil na computação forense
+# útil na segurança de dados
 # use com moderação
 
 # limpando a tela
@@ -10,7 +10,7 @@ clear
 # dialogando com o usuário
 echo "Digite o dispositivo que deseja zerar (exemplo: /dev/sdc) ou pressione CTRL+C para cancelar:"
 
-# recolhendo o dispositivo pelo usuário
+# recolhendo o dispositivo pelo usuário e guardando resposta na variável $dispositivo
 read dispositivo
 
 # limpando a tela novamente
