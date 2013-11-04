@@ -2,6 +2,7 @@
 # 0fill.sh
 # limpa totalmente um dispositivo preenchendo-o de zeros
 # útil na computação forense
+# use com moderação
 
 # limpando a tela
 clear
