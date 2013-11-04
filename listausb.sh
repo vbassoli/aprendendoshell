@@ -5,3 +5,5 @@
 
 kdialog --title "Listando dispositivos USB" \
 --msgbox "`lsusb`"
+
+# fim
