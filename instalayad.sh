@@ -1,10 +1,10 @@
 #!/bin/bash
 # instalayad.sh
 # instalador quebra-galho para o yad
-# roda no debian, e precisa do dialog
 
 # avisando o usuário que a instalação vai começar
-dialog --title "Instalador do Yad 0.24" --msgbox "Olá. Este instalador lhe ajudará a instalar o Yad versão 0.24 que já \
+dialog --backtitle "Yad para programadores Shell" --title "Instalador do Yad 0.24" \
+--msgbox "Olá. Este instalador lhe ajudará a instalar o Yad versão 0.24 que já \
 está em Língua Portuguesa. Você deverá rodar esse instalador como usuário root. Caso esteja como um usuário comum \
 solicito que pressione CTRL+C e torne-se root. Outro detalhe é que este script foi feito para o Debian!" 0 0
 
@@ -26,5 +26,8 @@ make
 make install
 
 # último diálogo com o usuário
-dialog --title "Parabéns!" --msgbox "Instalação aparentemente concluída com sucesso. Para conferir a instalação \
+dialog --backtitle "Yad para programadores Shell" --title "Parabéns!" \
+--msgbox "Instalação aparentemente concluída com sucesso. Para conferir a instalação \
 digite yad --about no terminal. Para saber das opções do Yad digite yad --help." 0 0
+
+# fim
