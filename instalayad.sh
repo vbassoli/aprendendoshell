@@ -1,6 +1,7 @@
 #!/bin/bash
 # instalayad.sh
 # instalador quebra-galho para o yad
+# roda no debian, e precisa do dialog
 
 # avisando o usuário que a instalação vai começar
 dialog --title "Instalador do Yad 0.24" --msgbox "Olá. Este instalador lhe ajudará a instalar o Yad versão 0.24 que já \
