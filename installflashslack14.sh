@@ -1,7 +1,6 @@
 #!/bin/bash
 # installflashslack14.sh
 # instalador do flashplugin no slackware
-# script não testado
 
 wget --progress=dot -c http://fpdownload.macromedia.com/get/flashplayer/current/install_flash_player_11_linux.i386.tar.gz
 cp install_flash_player_11_linux.i386.tar.gz /tmp
