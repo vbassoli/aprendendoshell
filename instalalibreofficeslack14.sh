@@ -1,5 +1,6 @@
 #!/bin/bash
 # instalalibreofficeslack14.sh
+# fonte: https://github.com/gustavologicus/aprendendoshell/blob/master/instalalibreofficeslack14.sh
 # removendo instalação anterior
 removepkg libreoffice libreoffice-l10n-pt_BR
 # fazendo download dos pacotes necessários
