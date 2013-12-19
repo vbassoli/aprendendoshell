@@ -29,8 +29,10 @@ apt-get install -y etherape
 echo "Instalando o Flash Plugin..."
 apt-get install -y flashplugin-nonfree
 
-echo "Instalando o Libreoffice..."
+echo "Instalando o Libreoffice em Língua portuguesa..."
 apt-get install -y libreoffice
+apt-get install -y libreoffice-l10n-pt-br
+apt-get install -y libreoffice-help-pt-br
 
 echo "Fazendo upgrade..."
 apt-get -y upgrade
