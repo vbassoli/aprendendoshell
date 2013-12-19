@@ -34,5 +34,14 @@ apt-get install -y libreoffice
 apt-get install -y libreoffice-l10n-pt-br
 apt-get install -y libreoffice-help-pt-br
 
+echo "Instalando GTK Record My Desktop..."
+apt-get install -y gtk-recordmydesktop
+
+echo "Instalando o Cheese..."
+apt-get install -y cheese
+
+echo "Instalando o Filezilla..."
+apt-get install -y filezilla
+
 echo "Fazendo upgrade..."
 apt-get -y upgrade
