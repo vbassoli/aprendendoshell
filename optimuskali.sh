@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo "Organizando repositório..."
 echo "deb http://http.kali.org/ /kali main contrib non-free" > /etc/apt/sources.list
 echo "deb http://http.kali.org/ /wheezy main contrib non-free" >> /etc/apt/sources.list
 echo "deb http://http.kali.org/kali kali-dev main contrib non-free" >> /etc/apt/sources.list
@@ -12,7 +13,20 @@ echo "deb http://security.kali.org/kali-security kali/updates main contrib non-f
 echo "deb-src http://security.kali.org/kali-security kali/updates main contrib non-free" >> /etc/apt/sources.list
 echo "deb http://download.virtualbox.org/virtualbox/debian wheezy contrib non-free" >> /etc/apt/sources.list
 
+echo "Fazendo download da chave para repositório do VirtualBox..."
 wget -q http://download.virtualbox.org/virtualbox/debian/oracle_vbox.asc -O- | sudo apt-key add -
 
+echo "Atualizando lista do repositório..."
 apt-get update
+
+echo "Instalando VirtualBox"
 apt-get install -y virtualbox-4.2
+
+echo "Instalando Etherape..."
+apt-get install -y etherape
+
+echo "Instalando o Flash Plugin..."
+apt-get install -y flashplugin-nonfree
+
+echo "Fazendo upgrade..."
+apt-get -y upgrade
