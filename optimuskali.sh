@@ -1,7 +1,8 @@
 #!/bin/bash
 
 echo "Organizando repositório..."
-echo "deb http://http.kali.org/ /kali main contrib non-free" > /etc/apt/sources.list
+echo "# repositório criado pelo script optimuskali.sh" > /etc/apt/sources.list
+echo "deb http://http.kali.org/ /kali main contrib non-free" >> /etc/apt/sources.list
 echo "deb http://http.kali.org/ /wheezy main contrib non-free" >> /etc/apt/sources.list
 echo "deb http://http.kali.org/kali kali-dev main contrib non-free" >> /etc/apt/sources.list
 echo "deb http://http.kali.org/kali kali-dev main/debian-installer" >> /etc/apt/sources.list
@@ -27,6 +28,9 @@ apt-get install -y etherape
 
 echo "Instalando o Flash Plugin..."
 apt-get install -y flashplugin-nonfree
+
+echo "Instalando o Libreoffice..."
+apt-get install -y libreoffice
 
 echo "Fazendo upgrade..."
 apt-get -y upgrade
