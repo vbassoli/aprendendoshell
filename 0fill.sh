@@ -1,8 +1,7 @@
 #!/bin/bash
 # 0fill.sh
-# limpa totalmente um dispositivo preenchendo-o de zeros
-# útil na segurança de dados
-# use com moderação
+# autor: gustavo soares de lima
+# limpa totalmente um dispositivo preenchendo-o de zeros, útil para segurança de dados
 
 # limpando a tela
 clear
@@ -19,8 +18,12 @@ clear
 # zerando o dispositivo
 echo "Zerando $dispositivo.
 Dependendo do tamanho do seu dispositivo este processo levará um bom tempo.
-Aproveite para tomar um café, ler um artigo, conversar com pessoas.
-Quando terminar lhe avisamos!"
+Aproveite para tomar um café, ler um artigo, conversar com pessoas."
+
+# realizando o 0fill propriamente dito
 dd if=/dev/zero of=$dispositivo
+
+# informe de encerramento para o usuário
+echo "Concluído!"
 
 # fim
