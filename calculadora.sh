@@ -6,7 +6,7 @@
 # limpando a tela
 clear
 
-# calculadora propriamente dita
+# calculadora
 while true
 do
 	echo -e "Calcularadora" # imprimindo mensagem
