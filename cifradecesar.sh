@@ -1,5 +1,6 @@
 #!/bin/bash
 # cifradecesar.sh
+# autor: gustavo soares de lima
 # a cifra de cesar foi uma das primeiras 
 # formas de criptografia
 
