@@ -3,7 +3,7 @@
 
 # variáveis
 titulo="Escola.sh 0.1"
-fundo="NTM Cascavel e Logicus"
+fundo="Desenvolvido por NTM Cascavel e Logicus"
 
 # verificando se o usuário é o root
 if [ $(id -u) != "0" ];then
