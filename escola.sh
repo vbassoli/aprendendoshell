@@ -64,3 +64,6 @@ esac
 done
 
 # fim do programa
+
+# escreveram este programa:
+# angela ferreira
