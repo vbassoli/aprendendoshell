@@ -69,3 +69,4 @@ done
 # angela ferreira
 # Fernando Graeff Machado
 # joao clovis
+# vandeir bassoli
